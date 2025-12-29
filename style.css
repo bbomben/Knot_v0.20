@@ -5,12 +5,16 @@ h1 {
 .navbar ul {
   list-style-type: none;
   text-align: center;
+  color: black;
 }
 
 .navbar a {
   padding: 10px;
   text-decoration: none;
   display: block;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 .navbar a:hover {
