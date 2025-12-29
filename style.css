@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.navbar ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.navbar a {
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.navbar a:hover {
+  background-color: red;
+}
